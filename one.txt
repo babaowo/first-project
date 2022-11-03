@@ -1,0 +1,7 @@
+Git Account
+email address---- owolabiadebayomoruf@gmail.com
+password--- owo12labi34
+username--- babaowo
+
+Git Commands
+1. git init
