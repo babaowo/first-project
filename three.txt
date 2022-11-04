@@ -4,3 +4,7 @@ soviet union
 republic of ireland
 mexico
 germany
+england
+italy
+canada
+australia
