@@ -6,3 +6,6 @@ ghana
 namibia
 uganda
 south africa
+egypt
+cameroon
+algeria
