@@ -1,3 +1,6 @@
 mary
 george 
 dennis
+simon
+fraser
+godwin
